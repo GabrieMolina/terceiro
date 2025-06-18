@@ -1,14 +1,14 @@
 body{
     text-align: center;
-    background-color:rgb(141, 226, 119)
+    background-color:rgb(189, 133, 23)
 }
 h1{
     font-size: xx-large;
-    color: darkblue;
+    color: rgb(192, 40, 40);
 }
 h3{
     font-size: large;
-    color: darkorange;
+    color: rgb(62, 127, 211);
 }
 .Bolsonaro1{
     width: 25%;
@@ -21,8 +21,8 @@ h3{
 }
 h2{
     font-size: x-large;
-    color: rgb(0, 71, 10);
+    color: rgb(225, 86, 11);
 }
 .MORAIS{
-    color: navy;
+    color: rgb(76, 170, 87);
 }
