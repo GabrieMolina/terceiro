@@ -1,11 +1,28 @@
 body{
-    background-color: white;
+    text-align: center;
+    background-color:rgb(141, 226, 119)
 }
-h1 {
-    font-style:oblique;
-    color:blueviolet;
+h1{
+    font-size: xx-large;
+    color: darkblue;
 }
-
-.imagem {
-width: 30%;
+h3{
+    font-size: large;
+    color: darkorange;
+}
+.Bolsonaro1{
+    width: 25%;
+}
+.JAIR{
+    width: 25%;
+}
+.ALEX{
+    width: 34%;
+}
+h2{
+    font-size: x-large;
+    color: rgb(0, 71, 10);
+}
+.MORAIS{
+    color: navy;
 }
